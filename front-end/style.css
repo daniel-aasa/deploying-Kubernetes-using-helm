@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: auto;
+    width: 600px;
+}
+
+.start{
+    background: red;
+    margin: 10px
+    
+    
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-top:20px; 
+    padding-bottom:20px;
+    
+}
+.logo{
+    width: 24px;
+    height: 24px;
+  
+    
+}
+
+.travel-text{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14.4608px;
+line-height: 28px;
+letter-spacing: 0.075em;
+text-align: center;
+font-weight: thick bolder;
+padding-left: 7px;
+
+
+
+color: #FFFFFF;
+}
+
+.mount-fiji{
+    width: 125px;
+    height: 168px;
+    border-radius: 6px;
+}
+
+.location-img{
+    width: 7px;
+    height: 9.55px;
+    
+    
+}
+
+.join{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 59px 
+    
+}
+
+
+.country{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 12px;
+letter-spacing: 0.17em;
+padding-right: 6px;
+padding-left: 5px;
+
+color: #2B283A;
+}
+
+.url{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 12px;
+color: #918E9B;
+
+
+}
+
+.appear-left{
+    margin-left: 40px; 
+    margin-top: 40px; 
+    margin-right: 19px; 
+    float: left;
+ 
+}
+
+.site{
+    margin-top: -1px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #2B283A;
+}
+
+.duration{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 10.24px;
+line-height: 12px;
+
+color: #2B283A;
+}
+.description{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+/* or 15px */
+
+
+color: #2B283A;
+}
